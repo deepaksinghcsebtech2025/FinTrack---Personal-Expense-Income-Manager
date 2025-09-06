@@ -103,3 +103,4 @@ This project is licensed under the MIT License.
 
 ✅ Now your README includes **backend & frontend run commands**.  
 
+Maintainer: deepaksinghcsebtech2025 (Deepak Singh)
